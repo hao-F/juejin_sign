@@ -1,4 +1,5 @@
 module.exports = {
+<<<<<<< HEAD
   sessionid: '7a95d20916fb3458a375d66e50ede2df',
   aid: '2608',
   uuid: '7056690055519847951',
@@ -23,3 +24,10 @@ module.exports = {
                 MONITOR_WEB_ID=1cc0737f-858f-4680-9603-e6c9ef8eb2d0
               `
 }
+=======
+  sessionid: '',
+  aid: '',
+  uuid: '',
+  _signature: ''
+}
+>>>>>>> 24c7dd0471647dc238756befbc8881012b449c0d
