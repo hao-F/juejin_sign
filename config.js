@@ -3,5 +3,5 @@ module.exports = {
   aid: '',
   uuid: '',
   _signature: '',
-  cookieList
+  cookieList: ''
 }
