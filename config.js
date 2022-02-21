@@ -1,7 +1,7 @@
 module.exports = {
-  sessionid: '',
-  aid: '',
-  uuid: '',
-  _signature: '',
-  cookieList: ''
+  sessionid: '2b02ed47311f2854bc5389726ebceca9',
+  aid: '2608',
+  uuid: '7056690055519847951',
+  _signature: '_02B4Z6wo00901Z5b9uQAAIDBHlkMphTxEAWeX.JAAAWGiScDS0vRBs3rnU.lJGF9.Mlg-UyFLR2BMeyWK.1yfwxgetBX72IOiUw.bnP6FuS.IncyhS7jxmRfg-oc7wwt9mE1XUT7zUnD8x3C7d',
+  cookieList: '_tea_utm_cache_2608={%22utm_source%22:%22gold_browser_extension%22}; __tea_cookie_tokens_2608=%257B%2522web_id%2522%253A%25227056690055519847951%2522%252C%2522ssid%2522%253A%2522f5b3a1b9-1042-44df-a95f-fea29ab81b4f%2522%252C%2522user_unique_id%2522%253A%25227056690055519847951%2522%252C%2522timestamp%2522%253A1643013701461%257D; _ga=GA1.2.1050322222.1643250959; passport_csrf_token_default=61fc4a8d13bd2e6f784d9e739cdae20a; passport_csrf_token=61fc4a8d13bd2e6f784d9e739cdae20a; n_mh=1fSfIwXe0PkvRIDG7wlphCo1kMv53Hs2RrrCRTv__P8; _gid=GA1.2.894740294.1645429122; _tea_utm_cache_2018=undefined; passport_auth_status=e4a9abec89a96e14389853adf9f97bcb%2C; passport_auth_status_ss=e4a9abec89a96e14389853adf9f97bcb%2C; sid_guard=2b02ed47311f2854bc5389726ebceca9%7C1645432761%7C5184000%7CFri%2C+22-Apr-2022+08%3A39%3A21+GMT; uid_tt=f52288b69cf0bd628279f5e32f8154ac; uid_tt_ss=f52288b69cf0bd628279f5e32f8154ac; sid_tt=2b02ed47311f2854bc5389726ebceca9; sessionid=2b02ed47311f2854bc5389726ebceca9; sessionid_ss=2b02ed47311f2854bc5389726ebceca9; sid_ucp_v1=1.0.0-KDAwMTAzY2VkNDNkYjQ0YjIyMjU1MDM1ZjM2MGNkZjZkYjdkMmE4MGMKFwi41NDA_fXRBRC5n82QBhiwFDgCQPEHGgJsZiIgMmIwMmVkNDczMTFmMjg1NGJjNTM4OTcyNmViY2VjYTk; ssid_ucp_v1=1.0.0-KDAwMTAzY2VkNDNkYjQ0YjIyMjU1MDM1ZjM2MGNkZjZkYjdkMmE4MGMKFwi41NDA_fXRBRC5n82QBhiwFDgCQPEHGgJsZiIgMmIwMmVkNDczMTFmMjg1NGJjNTM4OTcyNmViY2VjYTk; MONITOR_WEB_ID=e57e304d-e2a6-48db-a289-7978e57ce8fe'
 }

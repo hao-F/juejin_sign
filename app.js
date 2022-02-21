@@ -52,8 +52,8 @@ const rule = '30 10 0 * * *'; // 每天的凌晨0点10分30秒触发
 // 定时任务
 const scheduleCronstyle = () => {
     schedule.scheduleJob(rule, async () => {
-        const signRes = await signIn();
-        const dlRes = await luckDraw();
+        await signIn();
+        await luckDraw();
     });
 }
 
@@ -65,6 +65,5 @@ app.listen(8010, async () => {
 	console.log('服务已启动...')
 
 	scheduleCronstyle(); // 定时启动
-
 
 })
